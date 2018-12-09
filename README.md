@@ -47,9 +47,9 @@ United States, US
 ### How to use
 
 #### for ui
-Run "npm install" in the extracted folder
-Run "npm start" to view the project
+1. Run "npm install" in the extracted folder
+2. Run "npm start" to view the project
 
 #### for api
-Run "npm install" in the extracted folder
-Run "node app.js" to view the project
+1. Run "npm install" in the extracted folder
+2. Run "node app.js" to view the project
